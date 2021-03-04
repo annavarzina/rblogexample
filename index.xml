@@ -6,7 +6,16 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://annavarzina.github.io/rblogexample/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://annavarzina.github.io/rblogexample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog post</title>
+      <link>https://annavarzina.github.io/rblogexample/2021/03/04/my-first-blog-post/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://annavarzina.github.io/rblogexample/2021/03/04/my-first-blog-post/</guid>
+      <description>Hello!</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>https://annavarzina.github.io/rblogexample/2020/12/01/hello-r-markdown/</link>
